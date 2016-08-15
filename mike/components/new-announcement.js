@@ -5,7 +5,9 @@ export default Ember.Component.extend({
   actions: {
     announcementFormShow() {
       this.set('addNewAnnouncement', true);
-    },
+    }
+  },
+
     save1() {
       var params = {
         advertiser: this.get('advertiser'),
