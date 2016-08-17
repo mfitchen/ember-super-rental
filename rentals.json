@@ -19,6 +19,13 @@
   }],
   "announcements": [{
     "advertiser": "Gogh Fahqurselph",
-    "announcement": "It's hotter than Hates outside... fire sale!"
+    "announcement": "It's hotter than Hades outside... fire sale!"
+  }],
+  "cities": [{
+    "name": "Portland",
+    "country": "USA"
+  }, {
+    "name": "Seattle",
+    "country": "USA"
   }]
 }
